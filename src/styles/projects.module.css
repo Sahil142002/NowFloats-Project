@@ -1,0 +1,18 @@
+.portfolio > h1{
+
+  font-weight: 200;
+  text-decoration: double;
+}
+
+.portfolio > h2
+{
+    font-size: 3em;
+    margin-top: 80px;   
+}
+
+.portfolio >h3
+{
+  font-size: 2em;
+  font-weight: 400;
+    
+}
